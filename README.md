@@ -1,4 +1,4 @@
-* Importing Excel dataset into SQL using Python    
+*Importing Excel dataset into SQL using Python    
 The main goal of this script is to import a dataset from excel to sql, efficiently  extract some insights  and output it back to excel if needed.  
 
 ** Why Python: 
